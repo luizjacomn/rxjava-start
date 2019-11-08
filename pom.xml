@@ -10,6 +10,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<see>https://elo7.dev/programacao-reativa/</see>
+		<see>https://elo7.dev/programacao-reativa-parte-2/</see>
 	</properties>
 
 	<dependencies>
